@@ -10,6 +10,7 @@ import java.util.List;
 public class ModBlocks {
     public static final List<Block> BLOCKS = new ArrayList<Block>();
     //public static final Block SILVER_ORE = new SilverOre("silver_ore", Material.ROCK);
+    //public static final Block SILVER_BLOCK = new SilverBlock("silver_block", Material.IRON);
     //public static final Block COPPER_ORE = new CopperOre("copper_ore", Material.ROCK);
     //public static final Block TUNGSTEN_ORE = new TungstenOre("tungsten_ore", Material.ROCK);
     //public static final Block PLATINUM_ORE = new PlatinumOre("platinum_ore", Material.ROCK);

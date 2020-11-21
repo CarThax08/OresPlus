@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "TTT",
+    "TTT",
+    "TTT"
+  ],
+
+  "key": {
+    "T": {
+      "item": "oresplus:steel_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "oresplus:steel_ingot",
+    "count": 1
+  }
+}
