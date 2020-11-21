@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+
+  "key":
+  {
+    "R":
+    {
+      "item": "oresplus:titanium_nugget"
+    }
+  },
+
+  "result":
+  {
+    "item": "oresplus:titanium_ingot",
+    "count": 1
+  }
+}

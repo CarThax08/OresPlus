@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "OresPlus",
+        "name": "OresPlus",
+        "description": "Add a lot more ores into minecraft (as well as armor and tools) into minecraft to enhance your experience",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["CarThax08"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

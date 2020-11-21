@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " T ",
+    " S ",
+    " S "
+  ],
+
+  "key":
+  {
+    "T":
+    {
+      "item": "oresplus:titanium_ingot"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "oresplus:titanium_shovel",
+    "count": 1
+  }
+}
